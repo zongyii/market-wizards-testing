@@ -143,7 +143,7 @@
 	"暂无跳转链接":"URL is empty.",	
 	"马上质押$BOXBOX升级并获得更多票数":"Stake $BOXBOX Now to Upqrade and Get Extra Tickets",
 	
-	"提示":"Prompt",
+	"提示":"System Message",
 	
 	"去首页":"Go to the front page",
 	"请在手机下载Phantom Web3 钱包":"Please download Phantom Web3 wallet on your mobile phone.",
