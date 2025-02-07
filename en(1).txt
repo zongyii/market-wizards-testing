@@ -240,7 +240,7 @@
 		"上传失败":"Upload failed",
 		"很遗憾您被驳回":"We are sorry your request has been denied by the Team Captain",
 		"已失效":"Expired",
-		"很遗憾当前群组成员已满，请选择其他群组或者稍后再试":"Unfortunately, this Team is fullhouse. Please try join other Team",
+		"很遗憾当前群组成员已满，请选择其他群组或者稍后再试":"Unfortunately, this Team is full. Please join other Team",
 		"确认退出群组吗":"Are you sure you want to leave the Team",
 		"群组排行榜1":"Team Ranking",
 		"申请加入1":"Join",
