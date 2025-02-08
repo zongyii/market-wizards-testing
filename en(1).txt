@@ -180,7 +180,7 @@
 		"代币": " Tokens",
 		"目前您的账户等级不足以加入群组。为了加入群组，您需要达到": "Please upgrade your membership level to be eligible to participate in Team Activity ",
 		"才可以加入群组": "to Join a Team",
-		"级及以上": " and Above",
+		"级及以上": " or Above",
 		"进入群组": "Enter Here ",
 		"热门社群": "Popular Teams",
 		"最新的社群": "The latest Team",
